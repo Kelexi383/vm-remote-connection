@@ -39,7 +39,7 @@ System administrative capabilities were successfully verified within the cloud e
 
 whoami - Confirmed system identity as the administrative user Darey3mttAzure.
 
-uptime - Monitored host server health and uptime tracking.'''
+uptime - Monitored host server health and uptime tracking.```
 
-**Task 7: Manage Remote Sessions**
+_##Task 7: Manage Remote Sessions_
 To enforce proper capacity management and cloud resource security, the remote interactive terminal connection was terminated cleanly using the native Linux exit command rather than abruptly terminating the window terminal client.
