@@ -33,13 +33,12 @@ The virtual machine was successfully provisioned with a dedicated Azure public e
 ## Task 4 & 5: Establish Linux Connection & Verify System Access
 Using the native Windows Command Prompt client, a secure connection was initialized using standard SSH password authentication protocols:
 
-```bash
 ssh Darey3mttAzure@[INSERT_YOUR_VM_PUBLIC_IP_HERE]
 System administrative capabilities were successfully verified within the cloud environment by executing the following commands:
 
 whoami - Confirmed system identity as the administrative user Darey3mttAzure.
 
-uptime - Monitored host server health and uptime tracking.```
+uptime - Monitored host server health and uptime tracking
 
-_##Task 7: Manage Remote Sessions_
+##Task 7: Manage Remote Sessions
 To enforce proper capacity management and cloud resource security, the remote interactive terminal connection was terminated cleanly using the native Linux exit command rather than abruptly terminating the window terminal client.
